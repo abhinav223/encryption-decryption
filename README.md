@@ -33,7 +33,7 @@ class encryption:
         return strn
 
 
-    
+     
     def decrypt(self,encrypted_message,key,password): #data to be passed that has been obtained
         a=12345
         if a!=password:
